@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import pandas as pd
 
-df = pd.read_csv (r'C:\Users\vakul\Desktop\test.csv')
+df = pd.read_csv (r'C:\Users\sameer\Desktop\test.csv')
 
 #print (df)
 
